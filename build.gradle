@@ -36,7 +36,7 @@ repositories {
 
 // In this section you declare the dependencies for your production and test code
 dependencies {
-       //compile "com.neuronrobotics:bowler-kernel-kinematics:0.0.27"
+       compile "com.neuronrobotics:bowler-kernel-kinematics:0.0.27"
 
 }
 
